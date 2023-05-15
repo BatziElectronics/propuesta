@@ -1,0 +1,36 @@
+*{
+margin: 0;
+padding: 0;
+}
+body {
+background: yellow;
+}
+h1 {
+text-align: center;
+font-size: 30px;
+font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+margin: 2%;
+}
+.img {
+display: flex;
+justify-content: center;
+}
+.boton {
+display: flex;
+justify-content: center;
+margin: 2%;
+}
+.si {
+margin-right: 5%;
+padding: 1%;
+}
+.no {
+padding: 1%;
+}
+a {
+text-decoration: none;
+color:red;
+}
+.si, .no {
+background: turquoise;
+} 

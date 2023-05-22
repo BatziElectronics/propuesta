@@ -24,9 +24,6 @@ margin: 2%;
 margin-right: 5%;
 padding: 1%;
 }
-.no {
-padding: 1%;
-}
 a {
 text-decoration: none;
 color:red;
@@ -34,6 +31,12 @@ color:red;
 .si {
 background: turquoise;
 } 
+.si :hover {
+color: #fff;
+}
 #cerrar {
-padding: 1%:
+background: turquoise;
+color: red;
+padding: 1%;
+cursor: pointer;
 }

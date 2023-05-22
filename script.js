@@ -1,8 +1,8 @@
 const documentReady = () => {
 const cerrar = document.getElementById('cerrar');
 const alertas = () => {
-alert('seguro que quieres cerrar la pagina');
-location.href = 'https://google.com';
+alert('Jaja aún más?');
+location.href = 'https://www.youtube.com/watch?v=is_iOZeHTfU';
 };
 cerrar.addEventListener('click', alertas);
 };
